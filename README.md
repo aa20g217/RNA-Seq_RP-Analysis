@@ -14,18 +14,14 @@ Used Tools and version:
 10) R:	4.0.5
 11) RiboseQC: 0.99.0 (please see sessionInfo file for dependencies)
 12) Subread: 2.0.1
-```
-
-### How to Run 
-All the required scripts are available in scripts. Please run them in the given order. All the results will be saved in data folder and logs will be avaiölablke in scripts folder.
-
-
-
- 
+``` 
 
 ### Reference Genome
 1) Genome: http://ftp.ensembl.org/pub/release-104/fasta/rattus_norvegicus/dna/Rattus_norvegicus.Rnor_6.0.dna.toplevel.fa.gz
 2) Annotation: http://ftp.ensembl.org/pub/release-104/gtf/rattus_norvegicus/Rattus_norvegicus.Rnor_6.0.104.gtf.gz
+
+### How to Run 
+All the required scripts are available in scripts. Please run them in the given order. All the results will be saved in data folder and logs will be avaiölablke in scripts folder.
 
 ### Notes:
 1) Please run ```vdb-config --interactive``` command to configure sratoolkit before using it.

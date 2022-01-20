@@ -21,7 +21,7 @@ Used Tools and version:
 2) Annotation: http://ftp.ensembl.org/pub/release-104/gtf/rattus_norvegicus/Rattus_norvegicus.Rnor_6.0.104.gtf.gz
 
 ### How to Run 
-All the required scripts are available in scripts. Please run them in the given order. All the results will be saved in data folder and logs will be avaiölablke in scripts folder.
+All the required scripts are available in ```scripts folder```. Please run them in the given order. All the results will be saved in ```data folder``` and logs will be avaiölablke in scripts folder.
 
 ### Notes:
 1) Please run ```vdb-config --interactive``` command to configure sratoolkit before using it.
